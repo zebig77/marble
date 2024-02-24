@@ -1,3 +1,8 @@
-2024/01/31-19:39:01.344 ce4 Reusing MANIFEST G:/UE5/Projets/MarbleMadness/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/01/31-19:39:01.352 ce4 Recovering log #3
-2024/01/31-19:39:01.353 ce4 Reusing old log G:/UE5/Projets/MarbleMadness/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/02/23-16:15:01.768 40bc Reusing MANIFEST G:/UE5/Projets/MarbleMadness/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/02/23-16:15:01.786 40bc Recovering log #4
+2024/02/23-16:15:01.787 40bc Level-0 table #6: started
+2024/02/23-16:15:01.793 40bc Level-0 table #6: 18018 bytes OK
+2024/02/23-16:15:01.799 40bc Recovering log #6
+2024/02/23-16:15:01.800 40bc Reusing old log G:/UE5/Projets/MarbleMadness/Saved/webcache_4430\Local Storage\leveldb/000006.log 
+2024/02/23-16:15:01.804 40bc Delete type=0 #4
+2024/02/23-16:15:01.804 40bc Delete type=2 #7
